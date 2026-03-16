@@ -1,4 +1,4 @@
-"""
+
 App Streamlit de produtividade em obras.
 Como rodar:
 1) Instale as dependências:
@@ -8,4 +8,4 @@ Como rodar:
 Se o ambiente não tiver Streamlit, o arquivo continua importável e permite
 executar testes locais com:
   python cp.py
-"""
+
